@@ -1,0 +1,6 @@
+print("Complete Name: Francis Joshua M. Gacutno")
+print("Course: Computer Science")
+print("Section: CS-1E")
+print("Age:19")
+print("Birthday: May 18,2004")
+print("Complete Home Address: Camaman-an, Cagayan de Oro City")
